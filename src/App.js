@@ -8,7 +8,7 @@ function App() {
      <h2>Hello from <strong>Farhan</strong></h2>
      <label><input type="text"/>This is an input field</label>
   <p>This is a paragraph</p>
-<span>This is an image tag</span><img height="50px"src={"https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"} alt="app sample image"/> 
+<span>This is an image tag</span><img height="50px"src={"https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"} alt="app sample"/> 
   
 <h4>Unorderd list seems like this </h4>
      <ul>
