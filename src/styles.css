@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+
+ul{
+    
+    align-items:flex-start;
+    
+}
+
+.App{
+    display:    block;
+    /* display: flex; */
+}
+
+span{
+    color: gray;
+}
